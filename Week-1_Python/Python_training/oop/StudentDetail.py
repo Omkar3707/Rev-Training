@@ -3,7 +3,7 @@ from oop.College import College
 
 class StudentDetail(College):
     def __init__(self, c_code, c_name, rollno, sname, m1, m2, m3):
-        super().__init__(c_code, c_name)
+        College.__init__(self,c_code, c_name)
         self.__rollno = rollno
         self.__sname = sname
         self.__m1 = m1
