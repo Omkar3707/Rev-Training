@@ -1,0 +1,16 @@
+Hospital_ID,Hospital_Name,City,State,Total_Beds,Doctors,Nurses,Rating
+H001,Sunrise Hospital,Mumbai,MH,200,50,120,4.5
+H002,Green Valley Clinic,Delhi,DL,150,40,80,4.2
+H003,Apollo Health Center,Chennai,TN,300,80,200,4.7
+H004,City Care Hospital,Kolkata,WB,180,45,100,4.0
+H005,Blue Cross Medical,Pune,MH,250,60,150,4.3
+H006,Lakeview Hospital,Bengaluru,KA,220,55,130,4.6
+H007,Silverline Clinic,Hyderabad,TS,160,35,90,4.1
+H008,Heritage Medical Center,Ahmedabad,GJ,270,70,160,4.4
+H009,Lotus HealthCare,Jaipur,RJ,190,48,110,4.2
+H010,Wellness Hospital,Bhopal,MP,210,52,125,4.3
+H011,Tranquil Care Clinic,Thiruvananthapuram,KL,140,30,75,4.0
+H012,Golden Leaf Hospital,Patna,BR,230,58,140,4.5
+H013,Metro Health Hub,Lucknow,UP,260,65,170,4.6
+H014,Healing Touch Hospital,Nagpur,MH,240,62,155,4.4
+H015,Serene Life Hospital,Visakhapatnam,AP,200,50,120,4.3
